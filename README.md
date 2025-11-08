@@ -115,3 +115,4 @@ This implementation is ideal for:
 - Foundation for more advanced customer retention models
 - Business intelligence and customer analytics projects[1]
 
+## Dataset link: https://www.kaggle.com/datasets/ezzaldeenesmail/telco-churn-dataset/data
